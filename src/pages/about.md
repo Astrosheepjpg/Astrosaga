@@ -3,34 +3,12 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Astrology and stargazing are my hobbies. I'm drawn to exploring unconventional branches of astrology.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+My main areas of interests are <span style="color:#51AD36"> western sidereal</span> astrology, <span style="color:#F08650"> constellational (true sidereal)</span> astrology, <span style="color:#1393F2"> Babylonian</span> astrology, and <span style="color:#D151B6"> cosmobiology</span>.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+![Stargazing lady with telescope.](../assets/starry.svg)
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+I was disappointed with popular Western astrology when I realized that its tropical zodiac is not related to the stars at all. I decided to work with <span style="color:#D151B6"> sidereal zodiac (Fagan-Bradley)</span>, and <span style="color:#1393F2"> constellations (13+ zodiacs)</span>. Although still quite symbolic, they are more closely related to the <span style="color:#51AD36"> fixed stars</span>. To me, the influence of the real stars is more probable than that of the tropical zodiac.
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+I do not use any house system. I find their foundations questionable. Discovering astrologers who do not use houses encouraged me to abandon the concept of houses for good, and focus on planetary dynamics and stellar influences.
